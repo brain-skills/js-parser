@@ -1,0 +1,12 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.8;
+    font-weight: 400;
+    background: #222;
+    color: #fff;
+    padding: 0;
+    margin: 20px;
+}
+.product{margin-bottom: 20px;}
+h6, p{margin: 0;}
